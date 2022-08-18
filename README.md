@@ -16,7 +16,7 @@
 
 ### Клонировать репозиторий: ###
 ```shell
-git clone https://github.com/DKDemerchyan/homework_bot.git
+git clone git@github.com:DKDemerchyan/Yatube.git
 ```
 ### Установить зависимости из файла requirements.txt: ###
 ```shell
