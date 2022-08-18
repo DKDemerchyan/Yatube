@@ -16,7 +16,7 @@
 
 ### Клонировать репозиторий: ###
 ```shell
-git clone https://github.com/batalova90/hw05_final/
+git clone https://github.com/DKDemerchyan/homework_bot.git
 ```
 ### Установить зависимости из файла requirements.txt: ###
 ```shell
